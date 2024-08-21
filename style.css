@@ -1,0 +1,77 @@
+body{
+    background-image: url(Imagenes/textura\ hoja\ de\ papel.jpg);
+    background-color: #a8bde4;
+}
+h1{
+    text-align: center;
+}
+
+.logo{
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: 20px auto;
+}
+h4{
+    text-align: center;
+}
+ul{
+    text-align: center;  
+}
+div{
+    background-color: aliceblue;
+}
+h3{
+    text-align: center;
+}
+.BMTH1{
+    width: 500px;
+    height: 400px;
+    display: block;
+    margin: 20px auto;
+}
+
+.BMTH2{
+    width: 800px;
+    height: 600px;
+    display: block;
+    margin: 20px auto;
+    border-style: groove;
+}
+.album1{
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: 20px auto;
+    border-style: dotted;
+}
+.album2{
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: 20px auto;
+    border-style: dotted;
+}
+.album3{
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: 20px auto;
+    border-style: dotted;
+}
+.album4{
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: 20px auto;
+    border-style: dotted;
+}
+p{
+    text-align: center;
+}
+ol{
+    text-align: center;
+}
+footer{
+    text-align: left;
+}
